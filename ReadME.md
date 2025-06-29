@@ -1,0 +1,1 @@
+Define an enum called Planet with values like EARTH, MARS, JUPITER, etc. Each planet should store its gravity relative to Earth. Given a weight on Earth, compute and print the equivalent weight on each planet.
